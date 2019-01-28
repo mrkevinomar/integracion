@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CalculadoraSumaMainTest" tests="17" skipped="0" failures="0" errors="0" timestamp="2019-01-28T03:27:12" hostname="DESKTOP-A67NUJ4" time="0.193">
+  <properties/>
+  <testcase name="testSuma" classname="CalculadoraSumaMainTest" time="0.003"/>
+  <testcase name="main1error" classname="CalculadoraSumaMainTest" time="0.144"/>
+  <testcase name="main2error" classname="CalculadoraSumaMainTest" time="0.002"/>
+  <testcase name="main3error" classname="CalculadoraSumaMainTest" time="0.002"/>
+  <testcase name="main4error" classname="CalculadoraSumaMainTest" time="0.002"/>
+  <testcase name="main5error" classname="CalculadoraSumaMainTest" time="0.002"/>
+  <testcase name="mainerrordiv" classname="CalculadoraSumaMainTest" time="0.002"/>
+  <testcase name="mainerrormul" classname="CalculadoraSumaMainTest" time="0.002"/>
+  <testcase name="mainerrorpot" classname="CalculadoraSumaMainTest" time="0.001"/>
+  <testcase name="mainerrorres" classname="CalculadoraSumaMainTest" time="0.001"/>
+  <testcase name="mainerrorsum" classname="CalculadoraSumaMainTest" time="0.002"/>
+  <testcase name="mainerror" classname="CalculadoraSumaMainTest" time="0.001"/>
+  <testcase name="main1" classname="CalculadoraSumaMainTest" time="0.002"/>
+  <testcase name="main2" classname="CalculadoraSumaMainTest" time="0.005"/>
+  <testcase name="main3" classname="CalculadoraSumaMainTest" time="0.003"/>
+  <testcase name="main4" classname="CalculadoraSumaMainTest" time="0.007"/>
+  <testcase name="main5" classname="CalculadoraSumaMainTest" time="0.004"/>
+  <system-out><![CDATA[1)Suma
+2)Resta
+3)Multiplicacion
+4)Division
+5)Potencia
+Que operacion desea realizar: 
+(x + y)
+Ingrese x : No es un numero1)Suma
+2)Resta
+3)Multiplicacion
+4)Division
+5)Potencia
+Que operacion desea realizar: 
+(x - y)
+Ingrese x : No es un numero1)Suma
+2)Resta
+3)Multiplicacion
+4)Division
+5)Potencia
+Que operacion desea realizar: 
+(x * y)
+Ingrese x : No es un numero1)Suma
+2)Resta
+3)Multiplicacion
+4)Division
+5)Potencia
+Que operacion desea realizar: 
+(x / y)
+Ingrese x : No es un numero1)Suma
+2)Resta
+3)Multiplicacion
+4)Division
+5)Potencia
+Que operacion desea realizar: 
+(x ^ y)
+Ingrese x : No es un numero1)Suma
+2)Resta
+3)Multiplicacion
+4)Division
+5)Potencia
+Que operacion desea realizar: 
+(x / y)
+Ingrese x : Ingrese y : No es un numero1)Suma
+2)Resta
+3)Multiplicacion
+4)Division
+5)Potencia
+Que operacion desea realizar: 
+(x * y)
+Ingrese x : Ingrese y : No es un numero1)Suma
+2)Resta
+3)Multiplicacion
+4)Division
+5)Potencia
+Que operacion desea realizar: 
+(x ^ y)
+Ingrese x : Ingrese y : No es un numero1)Suma
+2)Resta
+3)Multiplicacion
+4)Division
+5)Potencia
+Que operacion desea realizar: 
+(x - y)
+Ingrese x : Ingrese y : No es un numero1)Suma
+2)Resta
+3)Multiplicacion
+4)Division
+5)Potencia
+Que operacion desea realizar: 
+(x + y)
+Ingrese x : Ingrese y : No es un numero1)Suma
+2)Resta
+3)Multiplicacion
+4)Division
+5)Potencia
+Que operacion desea realizar: 
+No es una opcion válida1)Suma
+2)Resta
+3)Multiplicacion
+4)Division
+5)Potencia
+Que operacion desea realizar: 
+(x + y)
+Ingrese x : Ingrese y : Resultado : 18.01)Suma
+2)Resta
+3)Multiplicacion
+4)Division
+5)Potencia
+Que operacion desea realizar: 
+(x - y)
+Ingrese x : Ingrese y : Resultado : 12.01)Suma
+2)Resta
+3)Multiplicacion
+4)Division
+5)Potencia
+Que operacion desea realizar: 
+(x * y)
+Ingrese x : Ingrese y : Resultado : 45.01)Suma
+2)Resta
+3)Multiplicacion
+4)Division
+5)Potencia
+Que operacion desea realizar: 
+(x / y)
+Ingrese x : Ingrese y : Resultado : 0.01)Suma
+2)Resta
+3)Multiplicacion
+4)Division
+5)Potencia
+Que operacion desea realizar: 
+(x ^ y)
+Ingrese x : Ingrese y : Resultado : 225.0]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
